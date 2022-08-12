@@ -1,0 +1,9 @@
+### Juliet Holmes mh3kh@virginia.edu
+### DS 5001 
+### August 2022
+
+# 1a: Get data to STADM (F0 to F2)
+
+This is the metadata for workbook 1a, since the .ipynb file is too large to edit. 
+
+Output: "wikipedia-DOC_v2.csv"
