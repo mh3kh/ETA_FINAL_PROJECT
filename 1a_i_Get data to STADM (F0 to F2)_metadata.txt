@@ -6,4 +6,6 @@
 
 This is the metadata for workbook 1a, since the .ipynb file is too large to edit. 
 
+Note: workbook 1a is also to large to upload onto github.
+
 Output: "wikipedia-DOC_v2.csv"
